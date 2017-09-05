@@ -1,1 +1,1 @@
-This project attempts to recreate the current (09/04/2017)google homepage using html and css.
+This project attempts to recreate the current (09/04/2017)google homepage and google search page (using search phrase "Build this search page") using html and css.
